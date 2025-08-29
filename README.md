@@ -1,12 +1,75 @@
-# React + Vite
+# 🚀 PulseShift
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PulseShift is a modern and professional web application designed to showcase services, projects, and client engagement. Built with **React, TailwindCSS, and Framer Motion**, it focuses on sleek design, smooth animations, and responsiveness across all devices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎨 **Modern UI/UX** with TailwindCSS  
+- ⚡ **Smooth animations** powered by Framer Motion  
+- 📱 **Fully responsive design** for mobile, tablet, and desktop  
+- 📂 **Services section** with animated cards  
+- 📨 **Contact form with social links**  
+- 📊 **Projects showcase with stats counters**  
+- 📰 **Newsletter subscription**  
+- 🔗 **Reusable components** for scalability  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌍 Live Demo
+
+🔗 [View Demo](https://pulseshift.netlify.app/)  
+
+
+---
+
+## 📷 Preview
+
+![PulseShift Logo](./src/assets/images/PulseShift.png)
+
+*(Replace with a screenshot of your app when deployed)*
+
+---
+
+## 🛠️ Tech Stack
+
+Here are the main tools & technologies used in this project:
+
+- ⚛️ **React.js** – Component-based frontend  
+- 🎨 **Tailwind CSS** – Styling & responsive design  
+- 🎞️ **Framer Motion** – Animations & transitions  
+- 📦 **Vite** – Next-gen frontend tooling  
+- 🖼️ **Lottie Animations** – Lightweight vector animations  
+- 🌐 **JavaScript (ES6+)**  
+
+---
+
+## 📑 Sections
+
+- **Hero Section** – Intro with typing animation  
+- **Services** – Web, Mobile, Cloud, and DevOps services  
+- **Projects** – Completed, Ongoing, and Client stats  
+- **Contact** – Get in touch form & social media icons  
+- **Newsletter** – Stay updated with latest news  
+- **Footer** – Navigation and company info  
+
+---
+
+## 📊 Project Stats
+
+- ✅ **Projects Completed** – 20+  
+- 🔄 **Ongoing Projects** – 5  
+- 🤝 **Happy Clients** – 15+  
+
+---
+
+## 📬 Contact
+
+Feel free to reach out if you'd like to collaborate or learn more about **PulseShift**:
+
+- 📧 Email: **abdulcadermohamedsafkhan@gmail.com**  
+- 🌐 Portfolio: [GitHub](https://github.com/SafkhanCader) | [LinkedIn](https://linkedin.com/in/mohamed-safkhan-abdul-cader)  
+
+---
+
