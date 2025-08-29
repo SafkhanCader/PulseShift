@@ -56,14 +56,6 @@ Here are the main tools & technologies used in this project:
 
 ---
 
-## 📊 Project Stats
-
-- ✅ **Projects Completed** – 20+  
-- 🔄 **Ongoing Projects** – 5  
-- 🤝 **Happy Clients** – 15+  
-
----
-
 ## 📬 Contact
 
 Feel free to reach out if you'd like to collaborate or learn more about **PulseShift**:
