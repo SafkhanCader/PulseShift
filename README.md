@@ -24,11 +24,9 @@ PulseShift is a modern and professional web application designed to showcase ser
 
 ---
 
-## 📷 Preview
+## 📷 Client Logo
 
 ![PulseShift Logo](./src/assets/images/PulseShift.png)
-
-*(Replace with a screenshot of your app when deployed)*
 
 ---
 
